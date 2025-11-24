@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  },
+
+  "scripts": {
+    "start": "node --watch ./Arhitektuur ja HTTP/klient.js",
+    "dev": "nodemon ./Arhitektuur ja HTTP/server.js"
+  },
+  "type": "module"
+}
